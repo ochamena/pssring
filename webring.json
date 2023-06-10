@@ -1,27 +1,14 @@
 [
-  {
-    "name": "Urchin World",
-    "url": "https://ochame.neocities.org/",
-    "owner": "Nona"
-  },
-  {
-    "name": "CSS { In Real Life }",
-    "url": "https://css-irl.info/",
-    "owner": "Michelle Barker"
-  },
-  {
-    "name": "CSS Wizardry",
-    "url": "https://csswizardry.com/archive/",
-    "owner": "Harry Roberts"
-  },
-  {
-    "name": "Adactio",
-    "url": "https://adactio.com/",
-    "owner": "Jeremy Keith"
-  },
-  {
-    "name": "Codrops",
-    "url": "https://tympanus.net/codrops/",
-    "owner": "Manoela Ilic"
-  }
-]
+    {
+      "name": "URCHIN WORLD",
+      "url": "https://ochame.neocities.org/",
+      "owner": "Nona",
+      "icon": "https://ochame.neocities.org/ring/icons/nona.png"
+    },
+    {
+        "name": "test",
+        "url": "https://dokode.moe",
+        "owner": "Suni",
+        "icon": "https://ochame.neocities.org/ring/icons/nona.png"
+      }
+  ]
