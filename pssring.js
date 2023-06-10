@@ -1,4 +1,4 @@
-const DATA_FOR_WEBRING = `/ring/member.json`;
+const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/ochamena/pssring/main/member.json`;
 
 const template = document.createElement("template");
 template.innerHTML = `
