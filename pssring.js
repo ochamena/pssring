@@ -3,10 +3,6 @@ const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/ochamena/pssring/mai
 const template = document.createElement("template");
 template.innerHTML = `
 <style>
-@font-face {
-    font-family: "pokexy";
-    src: url("https://ochame.neocities.org/ring/pokexy.ttf");
-  }
 .webring {
   border: 4px outset #AE6E00;
   border-radius: 10px;
@@ -18,7 +14,7 @@ template.innerHTML = `
 
   text-align: center;
 
-  font: 13px "pokexy", MS UI Gothic, sans-serif;
+  font: 13px, MS UI Gothic, sans-serif;
   background-color: #FFDC5C;
 
 }
